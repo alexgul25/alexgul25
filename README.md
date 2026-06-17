@@ -1,4 +1,4 @@
-# Привет! Я Александр
+# Привет, я Александр! :wave:
 
 ## О себе
 
@@ -13,10 +13,10 @@ Golang Developer, ищу работу в IT.
 
 - **API и протоколы:** `REST`, `gRPC`, `HTTP`
 
-- **Хранилище и брокеры данных:** `PostgreSQL`, `Redis`, `Apache Kafka`
+- **БД и брокеры данных:** `PostgreSQL`, `Redis`, `Apache Kafka`
 
-- **Инфраструктура и наблюдаемость:** `Docker`, `Prometheus`
+- **Инфраструктура и мониторинг:** `Docker`, `Prometheus`
 
 ## Мои проекты
 
-- [User Service](https://github.com/alexgul25/user-svc) - Микросервис для будущего проекта Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `gRPC`, `PostgreSQL`
+- [User Service](https://github.com/alexgul25/user-svc) - Микросервис для будущего проекта Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `Go`, `gRPC`, `PostgreSQL`
