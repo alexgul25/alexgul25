@@ -3,20 +3,23 @@
 ## О себе
 
 Golang Developer, ищу работу в IT.
-Закончил ВМК МГУ, активно развиваюсь в направлении backend-разработки
+
+Закончил бакалавриат и магистратуру ВМК МГУ.
+
+Интересуюсь проектированием и разработкой высоконагруженных отказоустойчивых микросервисов.
 
 ## Технологический стек
 
-- **Языки программирования:** `Golang`, `C`, `C++`
+- **Языки программирования:** `Golang`  `C`  `C++`
 
-- **Фреймворки и библиотеки:** `Gin`
+- **Фреймворки и библиотеки:** `Gin`  `Chi`
 
-- **API и протоколы:** `REST`, `gRPC`, `HTTP`
+- **API и протоколы:** `REST API`  `TCP/UDP`  `gRPC`  `HTTP`
 
-- **БД и брокеры данных:** `PostgreSQL`, `Redis`, `Apache Kafka`
+- **БД и брокеры данных:** `PostgreSQL`  `Redis`  `Apache Kafka`
 
-- **Инфраструктура и мониторинг:** `Docker`, `Prometheus`
+- **Другие навыки:** `Git`  `SQL`  `Docker`  `Compose`  `Prometheus`  `Linux`
 
 ## Мои проекты
 
-- [User Service](https://github.com/alexgul25/user-svc) - Микросервис для будущего проекта Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `Go`, `gRPC`, `PostgreSQL`
+- [User Service](https://github.com/alexgul25/user-svc) - микросервис для проекта Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `Go`, `gRPC`, `PostgreSQL`
