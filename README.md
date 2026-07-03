@@ -6,7 +6,7 @@
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/alexgul25">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
     </a>
 </div>
 <!-- markdownlint-enable MD033 -->
