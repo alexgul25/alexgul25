@@ -41,6 +41,8 @@
 
 ## :open_file_folder: Мои проекты
 
+- [Place Service](https://github.com/alexgul25/place-svc) - микросервис для проекта Date Wishlist Hub, отвечает за данные о местах, добавленных пользователями. Стек: `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
+
 - [Gateway Service](https://github.com/alexgul25/gateway-svc) - микросервис для проекта Date Wishlist Hub, единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами. Стек: `Go`  `HTTP`  `gRPC`
 
 - [User Service](https://github.com/alexgul25/user-svc) - микросервис для проекта Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `Go`  `gRPC`  `PostgreSQL`
