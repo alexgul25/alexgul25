@@ -5,9 +5,6 @@
     <h3>Golang Developer • Москва • Открыт к предложениям</h3>
 </div>
 <div id="socials" align="center">
-    <a href="mailto:avguliaev@mail.ru">
-        <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="120" height="30" />
-    </a>
     <a href="https://t.me/alex_guliaev">
         <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" width="120" height="30" />
     </a>
