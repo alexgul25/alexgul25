@@ -5,6 +5,9 @@
     <h3>Golang Developer • Москва • Открыт к предложениям</h3>
 </div>
 <div id="socials" align="center">
+    <a href="mailto:avguliaev@mail.ru">
+        <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="120" height="30" />
+    </a>
     <a href="https://t.me/alex_guliaev">
         <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" width="120" height="30" />
     </a>
@@ -17,7 +20,7 @@
 
 - :gear: Увлечён проектированием высоконагруженных отказоустойчивых систем
 
-- :shipit: В рамках пет-проектов осваиваю микросервисные паттерны, контейнеризацию, работу с БД и брокерами данных
+- :seedling: В рамках пет-проектов осваиваю микросервисные паттерны, контейнеризацию, работу с БД и брокерами данных
 
 - :page_facing_up: **[Моё резюме](https://disk.yandex.ru/i/frrd46X4y4ShgQ)**
 
@@ -43,8 +46,10 @@
 
 - :test_tube: **[Date Wishlist Hub](https://github.com/alexgul25/date-wishlist-hub-deploy)** - пет-проект из нескольких микросервисов для самостоятельного обучения основам разработки высоконагруженных отказоустойчивых систем
 
-- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - микросервис для Date Wishlist Hub, отвечает за данные о местах, добавленных пользователями. Стек: `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
+- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - микросервис для *Date Wishlist Hub*, отвечает за данные о местах, добавленных пользователями. Стек: `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
 
-- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - микросервис для Date Wishlist Hub, единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами. Стек: `Go`  `HTTP`  `gRPC`
+- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - микросервис для *Date Wishlist Hub*, единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами. Стек: `Go`  `HTTP`  `gRPC`
 
-- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - микросервис для Date Wishlist Hub, отвечает за данные о пользователях и подписках. Стек: `Go`  `gRPC`  `PostgreSQL`
+- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - микросервис для *Date Wishlist Hub*, отвечает за данные о пользователях и подписках. Стек: `Go`  `gRPC`  `PostgreSQL`
+
+- :scroll: **[Protos](https://github.com/alexgul25/protos)** - репозиторий с общими `.proto` контрактами для *Date Wishlist Hub*, импортируется остальными микросервисами в качестве библиотеки. Стек: `Go`  `Protobuf`
