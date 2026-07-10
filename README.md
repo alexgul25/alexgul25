@@ -24,7 +24,6 @@
 ## :hammer_and_wrench: Технологический стек
 
 <!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD033 -->
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -41,7 +40,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Make" src="https://img.shields.io/badge/-Make-0A0A0A?style=flat-square&logo=make&logoColor=white" />
 </p>
-<!-- markdownlint-enable MD033 -->
 <!-- markdownlint-enable MD033 -->
 
 ## :open_file_folder: Мои проекты
