@@ -15,7 +15,7 @@
 
 - :mortar_board: Выпускник ***ВМК МГУ*** (бакалавриат + магистратура)
 
-- :gear: Увлечён проектированием высоконагруженных отказоустойчивых систем
+- :gear: Интересуюсь проектированием высоконагруженных отказоустойчивых систем
 
 - :seedling: В рамках пет-проектов осваиваю микросервисы, контейнеризацию, работу с БД и брокерами данных
 
@@ -44,12 +44,21 @@
 
 ## :open_file_folder: Мои проекты
 
-- :test_tube: **[Date Wishlist Hub](https://github.com/alexgul25/date-wishlist-hub-deploy)** - пет-проект из нескольких микросервисов для самостоятельного обучения основам разработки высоконагруженных отказоустойчивых систем
+:test_tube: **Date Wishlist Hub** - пет-проект из нескольких микросервисов для самостоятельного обучения основам разработки высоконагруженных отказоустойчивых систем. Для планирования и удобства работы организована публичная **[канбан-доска](https://github.com/users/alexgul25/projects/2)**. В проект входят следующие микросервисы.
 
-- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - микросервис для *Date Wishlist Hub*, отвечает за данные о местах, добавленных пользователями. Стек: `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
+- :whale: **[Date Wishlist Hub Deploy](https://github.com/alexgul25/date-wishlist-hub-deploy)** - центральный репозиторий проекта.
 
-- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - микросервис для *Date Wishlist Hub*, единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами. Стек: `Go`  `HTTP`  `gRPC`
+- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - публичный HTTP-сервер. Единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами.
+  *Стек:* `Go`  `HTTP`  `gRPC`
 
-- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - микросервис для *Date Wishlist Hub*, отвечает за данные о пользователях и подписках. Стек: `Go`  `gRPC`  `PostgreSQL`
+- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - внутренний gRPC-сервер. Отвечает за операции с данными о местах, добавленных пользователями.
+  *Стек:* `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
 
-- :scroll: **[Protos](https://github.com/alexgul25/protos)** - репозиторий с общими `.proto` контрактами для *Date Wishlist Hub*, импортируется остальными микросервисами в качестве библиотеки. Стек: `Go`  `Protobuf`
+- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - внутренний gPRC-сервер. Отвечает за операции с данными о пользователях и подписках.
+  *Стек:* `Go`  `gRPC`  `PostgreSQL`
+
+- :bell: **[Notify Service](https://github.com/alexgul25/notify-svc)** - внутренний сервис для асинхронной отправки уведомлений.
+  *Стек:* `Go`  `gRPC`  `PostgreSQL`  `Kafka`
+
+- :scroll: **[Protos](https://github.com/alexgul25/protos)** - репозиторий с общими `.proto` контрактами, импортируется остальными микросервисами в качестве библиотеки.
+  *Стек:* `Go`  `Protobuf`
