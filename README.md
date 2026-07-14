@@ -48,17 +48,17 @@
 
 - :whale: **[Date Wishlist Hub Deploy](https://github.com/alexgul25/date-wishlist-hub-deploy)** - центральный репозиторий проекта.
 
-- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - публичный HTTP-сервер. Единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами.
+- :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - публичный HTTP-сервер. Единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами.\
   *Стек:* `Go`  `HTTP`  `gRPC`
 
-- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - внутренний gRPC-сервер. Отвечает за операции с данными о местах, добавленных пользователями.
+- :round_pushpin: **[Place Service](https://github.com/alexgul25/place-svc)** - внутренний gRPC-сервер. Отвечает за операции с данными о местах, добавленных пользователями.\
   *Стек:* `Go`  `gRPC`  `PostgreSQL`  `Kafka`  `Redis`
 
-- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - внутренний gPRC-сервер. Отвечает за операции с данными о пользователях и подписках.
+- :busts_in_silhouette: **[User Service](https://github.com/alexgul25/user-svc)** - внутренний gPRC-сервер. Отвечает за операции с данными о пользователях и подписках.\
   *Стек:* `Go`  `gRPC`  `PostgreSQL`
 
-- :bell: **[Notify Service](https://github.com/alexgul25/notify-svc)** - внутренний сервис для асинхронной отправки уведомлений.
+- :bell: **[Notify Service](https://github.com/alexgul25/notify-svc)** - внутренний сервис для асинхронной отправки уведомлений.\
   *Стек:* `Go`  `gRPC`  `PostgreSQL`  `Kafka`
 
-- :scroll: **[Protos](https://github.com/alexgul25/protos)** - репозиторий с общими `.proto` контрактами, импортируется остальными микросервисами в качестве библиотеки.
+- :scroll: **[Protos](https://github.com/alexgul25/protos)** - репозиторий с общими `.proto` контрактами, импортируется остальными микросервисами в качестве библиотеки.\
   *Стек:* `Go`  `Protobuf`
