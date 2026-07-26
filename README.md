@@ -46,7 +46,7 @@
 
 :test_tube: **Date Wishlist Hub** - пет-проект из нескольких микросервисов для самостоятельного обучения основам разработки высоконагруженных отказоустойчивых систем. Для планирования и удобства работы организована публичная **[канбан-доска](https://github.com/users/alexgul25/projects/2)**. В проект входят следующие микросервисы.
 
-- :whale: **[Date Wishlist Hub Deploy](https://github.com/alexgul25/date-wishlist-hub-deploy)** - центральный репозиторий проекта.\
+- :whale: **[Date Wishlist Hub Deploy](https://github.com/alexgul25/date-wishlist-hub-deploy)** - центральный репозиторий. Ведение документации, описание архитектуры, сборка компонентов в единую систему.\
   *Общий стек проекта:* `Go` `PostgreSQL` `Redis` `Kafka` `HTTP` `gRPC` `Protobuf`
 
 - :globe_with_meridians: **[Gateway Service](https://github.com/alexgul25/gateway-svc)** - публичный HTTP-сервер. Единая точка входа, через которую клиенты взаимодействуют со всеми внутренними сервисами.\
