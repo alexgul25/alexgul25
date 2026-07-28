@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 -->
 <div id="header" align="center">
-    <h3>Golang Developer • Москва • Открыт к предложениям</h3>
+    <h3>Software Developer • Москва • Открыт к предложениям</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/alex_guliaev">
